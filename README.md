@@ -1,6 +1,6 @@
 # Covariances with the Response Approach
 
-This code computes the covariance matrix of the matter power spectrum using the response approach to perturbation theory.
+This code computes the covariance matrix of the matter power spectrum using the response approach to perturbation theory. It includes the Gaussian term and the connected non-Gaussian term up to 1-loop terms.
 
 The response approach was developed in these two papers:
 
