@@ -1,13 +1,11 @@
 # Covariances with the Response Approach
 
-This code computes the covariance matrix of the matter power spectrum using the response approach to perturbation theory. It includes the Gaussian (G) term and the connected non-Gaussian (cNG) term up to 1-loop. It does not include the super-sample covariance (SSC) term.
-
-The response approach was developed in:
+This code computes the covariance matrix of the matter power spectrum using the response approach to perturbation theory. It was used in the numerical analysis of the papers:
 
 - Barreira & Schmidt 2017a, https://arxiv.org/abs/1703.09212
 - Barreira & Schmidt 2017b, https://arxiv.org/abs/1705.01092
 
-where it was used to calculate covariance matrices; these are the analysis and ploting scripts for these two papers. Consult these papers for comparisons against simulations, which are excellent. The response calculation is however much more time efficient!
+who developed the response approach and used it, as a first application, to address the problem of accurate analytical calculations of covariance matrices. This code includes the Gaussian (G) term and the connected non-Gaussian (cNG) term up to 1-loop. For the remaining super-sample covariance term see the code (lensing SSC)[https://github.com/alexmrbarreira/gravitational_lensing_SSC].
 
 For more applications of the response approach see:
 
