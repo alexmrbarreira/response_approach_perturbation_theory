@@ -7,9 +7,7 @@ The response approach was developed in:
 - Barreira & Schmidt 2017a, https://arxiv.org/abs/1703.09212
 - Barreira & Schmidt 2017b, https://arxiv.org/abs/1705.01092
 
-where it was used to calculate covariance matrices; these are the analysis and ploting scripts for these two papers. 
-
-Consult the above two papers for comparisons against simulations, which are excellent. The response calculation is however much more time efficient!
+where it was used to calculate covariance matrices; these are the analysis and ploting scripts for these two papers. Consult these papers for comparisons against simulations, which are excellent. The response calculation is however much more time efficient!
 
 For more applications of the response approach see:
 
