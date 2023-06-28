@@ -38,6 +38,6 @@ Contributions along the diagonal
 
 <img src="plots/fig_covariance_diagonal_mono.png" width="600" height=auto/>
 
-Response functions used in the calculations
+Response functions used in the calculation
 
 <img src="plots/fig_responses_eul.png" width="1000" height=auto/>
