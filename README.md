@@ -5,7 +5,7 @@ This code computes the covariance matrix of the matter power spectrum using the 
 - Barreira & Schmidt 2017a, https://arxiv.org/abs/1703.09212
 - Barreira & Schmidt 2017b, https://arxiv.org/abs/1705.01092
 
-who developed the response approach and used it, as a first application, to address the problem of accurate analytical calculations of covariance matrices. This code includes the Gaussian (G) term and the connected non-Gaussian (cNG) term up to 1-loop. For super-sample covariance (SSC) term see [this other code](https://github.com/alexmrbarreira/gravitational_lensing_SSC).
+who developed the response approach and used it, as a first application, to address the problem of accurate analytical calculations of covariance matrices. This code includes the Gaussian (G) term and the connected non-Gaussian (cNG) term up to 1-loop. For the super-sample covariance (SSC) term see [this other code](https://github.com/alexmrbarreira/gravitational_lensing_SSC).
 
 For more applications of the response approach see:
 
