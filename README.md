@@ -22,4 +22,11 @@ where it was used to calculate covariance matrices; these are the analysis and p
 
 ### Gallery
 
+Summary of the kinematic regimes in $k_1-k_2$ space.
 <img src="plots/fig_regimes_v2.png" width="1000" height=auto/>
+
+Stitching of the tree-level standard perturbation theory (SPT) and response results
+<img src="plots/fig_tree_transition_mono.png" width="1000" height=auto/>
+
+Contributions along the diagonal
+<img src="plots/plot_covariance_mono_diagonal.py" width="1000" height=auto/>
