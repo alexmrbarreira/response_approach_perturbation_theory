@@ -29,4 +29,4 @@ Stitching of the tree-level standard perturbation theory (SPT) and response resu
 <img src="plots/fig_tree_transition_mono.png" width="1000" height=auto/>
 
 Contributions along the diagonal
-<img src="plots/fig_covariance_diagonal_mono.png" width="1000" height=auto/>
+<img src="plots/fig_covariance_diagonal_mono.png" width="600" height=auto/>
