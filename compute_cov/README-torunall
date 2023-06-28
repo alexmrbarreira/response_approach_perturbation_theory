@@ -1,0 +1,7 @@
+
+  Run this to run all
+
+python compute_cov_1loop_noqInt.py ; python compute_cov_1loop_addqInt.py; python compute_cov_gaussian.py; python compute_cov_sqtree.py; python compute_cov_stdtree.py; python compute_cov_total.py
+
+
+ 
