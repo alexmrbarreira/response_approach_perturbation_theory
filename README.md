@@ -22,4 +22,4 @@ where it was used to calculate covariance matrices; these are the analysis and p
 
 ### Gallery
 
-<img src="plots/fig_regimes_v2.png" width="800" height=auto/>
+<img src="plots/fig_regimes_v2.png" width="1000" height=auto/>
