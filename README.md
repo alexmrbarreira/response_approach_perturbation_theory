@@ -20,6 +20,10 @@ where it was used to calculate covariance matrices; these are the analysis and p
 
 ### Code overview
 
+- The files parameters.py and functions.py define global parameters, variables and functions
+- The scripts in compute_cov/ execute the covariance calculation
+- The scripts in plots/ make plots (figures are stored here too).
+
 ### Gallery
 
 Summary of the kinematic regimes in $k_1-k_2$ space
@@ -33,3 +37,7 @@ Stitching of the tree-level standard perturbation theory (SPT) and response resu
 Contributions along the diagonal
 
 <img src="plots/fig_covariance_diagonal_mono.png" width="600" height=auto/>
+
+Response functions used in the calculations
+
+<img src="plots/fig_responses_eul.png" width="1000" height=auto/>
