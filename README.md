@@ -13,3 +13,10 @@ where it was used to calculate covariance matrices; these are the analysis and p
 - Barreira 2019, https://arxiv.org/abs/1901.01243
 - Barreira et al. 2019, https://arxiv.org/abs/1904.02070
 - Halder & Barreira 2022, https://arxiv.org/abs/2201.05607
+
+#### Dependencies
+
+- python (numpy, scipy, matplotlib)
+
+#### Gallery
+
