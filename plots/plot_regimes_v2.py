@@ -98,13 +98,13 @@ plot(ktoplot_1, oloop_curve       , linestyle = 'solid' , linewidth = 2.0, c = '
 plot(ktoplot_1, total_curve       , linestyle = 'solid' , linewidth = 2.0, c = 'r', label = r"$Total$")
 
 axvline(0.075/squeezeness_1, linestyle = 'dashed', c = 'k')
-annotate(r"$II$"  ,xy=(0.55,0.75),xycoords='axes fraction',rotation=0,xytext=(0.55,0.75),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
+annotate(r"$II$"  ,xy=(0.35,0.75),xycoords='axes fraction',rotation=0,xytext=(0.35,0.75),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
 annotate(r"$III$" ,xy=(0.85,0.75),xycoords='axes fraction',rotation=0,xytext=(0.85,0.75),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
 
 xlabel(r'$k_1\ \left[h/{\rm Mpc}\right]$'        , fontsize = labelsize)
 ylabel(r'$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {\rm Cov}^{\rm NG, \ell=0}/(P_{m,1} P_{m,2})\ \times\ 10^{3}$'        , fontsize = labelsize)
 #xlim(min((k_common)), max((k_common)))
-xlim(0.04, 0.7)
+xlim(0.06, 0.7)
 ylim(0.0, 0.75)
 xscale('log')
 xticks(size = ticksize)
@@ -126,14 +126,14 @@ plot(ktoplot_2, total_curve       , linestyle = 'solid' , linewidth = 2.0, c = '
 
 axvline(0.075/squeezeness_2, linestyle = 'dashed', c = 'k')
 axvline(0.300/squeezeness_2, linestyle = 'dashed', c = 'k')
-annotate(r"$I$"  ,xy=(0.20,0.45),xycoords='axes fraction',rotation=0,xytext=(0.20,0.45),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
+annotate(r"$I$"  ,xy=(0.10,0.45),xycoords='axes fraction',rotation=0,xytext=(0.10,0.45),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
 annotate(r"$IV$" ,xy=(0.55,0.45),xycoords='axes fraction',rotation=0,xytext=(0.55,0.45),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
 annotate(r"$V$"  ,xy=(0.90,0.45),xycoords='axes fraction',rotation=0,xytext=(0.90,0.45),textcoords='axes fraction',bbox=dict(boxstyle="round4",fc='w',alpha=0.75),color='k',fontsize = textsize)
 
 xlabel(r'$k_1\ \left[h/{\rm Mpc}\right]$'        , fontsize = labelsize)
 #ylabel(r'${\rm Cov}_{12}/P_{m,1}/P_{m,2}\ \times\ 10^{3}$'        , fontsize = labelsize)
 #xlim(min((k_common)), max((k_common)))
-xlim(0.04, 0.7)
+xlim(0.06, 0.7)
 ylim(0.0, 0.75)
 xscale('log')
 xticks(size = ticksize)
