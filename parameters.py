@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 tinycorr  = 1.0e-10
 
 # Put working directory here (all paths are relative to this)
-localpath = '/home/barreira/a.Other/d-github_somework/a-response_approach_perturbation_theory/' 
+localpath = '/home/barreira/a.Other/d-github_workrepos/a-response_approach_perturbation_theory/' 
 
 # ==================================================================== #
 # Needed cosmo parameters and others
